@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Connecting Code-X-RuWA-V1 🧬... ✅')
 
-let up = `Wa-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `Code-X-RuWA-V1 BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
 
