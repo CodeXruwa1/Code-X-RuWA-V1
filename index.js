@@ -67,7 +67,7 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('Bot connected to whatsapp ✅')
+console.log('Connecting Code-X-RuWA-V1 🧬... ✅')
 
 let up = `Wa-BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
