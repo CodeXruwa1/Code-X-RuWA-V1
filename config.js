@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "n252RBYI#vA0w58pwTZbr2Du9baHD6ALX-Ldk79R03OxrD3UyttY",
+SESSION_ID: process.env.SESSION_ID || "j3QDECzC#iHsy2RqaqBKDfJPW4BMGC6Y5Tv7zIY1usLMYSZUy4SE",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/CodeXRuWA/Code-X-RuWA-V1-Alive-img/blob/main/Code-X-RuWA-V1%20Alive%20Logo.jpg?raw=true",
 ALIVE_MSG: process.env.ALIVE_MSG || "😈 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝘾𝙤𝙙𝙚-𝙓-𝙍𝙪𝙬𝙖-𝙑1         ━╬٨﹏ـﮩﮩ`ᵐᵈ ʷʰᵃᵗˢᵃᵖᵖ ᵇᵒᵗ´﹏٨ـﮩﮩـ╬━ 
 
