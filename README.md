@@ -5,6 +5,6 @@
 මෙී ලින්ක් එකෙන් ගිහින් නමිබර් එක දීලා Pair code එක අරන් Link කරගන්න.
 
 ©️ copyright Credit  
-< bot base - prabth-MD >      
+< bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
 
-< Pair code Link - Asitha-MD >
+
