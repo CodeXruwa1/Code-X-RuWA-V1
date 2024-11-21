@@ -1,21 +1,27 @@
 # 💠"Code X RuWA V1" Whatsapp BOT💠
 
-👉 [ Pair Code Get link ] - https://pair-code-production.up.railway.app/pair
+\\============================================================================//
 
 මෙී ලින්ක් එකෙන් ගිහින් නමිබර් එක දීලා Pair code එක අරන් Link කරගන්න.
 
-name: Node.js CI
+👉 [ Pair Code Get link ] - https://pair-code-production.up.railway.app/pair
 
-on:
-  push:
+\\============================================================================//
+
+මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.
+
+    name: Node.js CI
+
+    on:
+    push:
     branches:
       - main
-  pull_request:
+    pull_request:
     branches:
       - main
 
-jobs:
-  build:
+    jobs:
+    build:
 
     runs-on: ubuntu-latest
 
@@ -37,6 +43,8 @@ jobs:
 
     - name: Start application
       run: npm start
+
+\\============================================================================//
 
 ©️ copyright Credit  
 < bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
