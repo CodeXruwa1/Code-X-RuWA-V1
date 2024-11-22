@@ -1,6 +1,14 @@
 # 😈"Code X RuWA V1" Whatsapp BOT😈
 ====================================================================
 
+  <p align="center">
+    <a href="https://github.com/ASITHA-MD/ASITHA-MD">
+    <img src=https://i.postimg.cc/rmL0Tm9y/Asitha-MD.png"  width="700px">
+    </a>
+    <hr>
+    <p align="center">
+
+
 <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCode-X-RuWA%2FCode-X-RuWA-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/>
 
