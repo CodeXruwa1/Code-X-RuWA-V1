@@ -1,5 +1,8 @@
-# 💠"Code X RuWA V1" Whatsapp BOT💠
+# 😈"Code X RuWA V1" Whatsapp BOT😈
 ====================================================================
+</a>
+    <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1/tree/main">
+    <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-MD?label=Fork&style=social">
 
 <hr>
 
