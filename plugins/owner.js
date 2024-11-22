@@ -68,14 +68,14 @@ async (conn, mek, m, { from, isOwner, reply }) => {
 // 7. Get Bot JID
 cmd({
     pattern: "jid",
-    desc: "Get the bot's JID.",
+    desc: "Get the Jid of contact or groups the bot is part of.",
     category: "owner",
-    react: "🤖",
+    react: "📝",
     filename: __filename
 },
 async (conn, mek, m, { from, isOwner, reply }) => {
-    if (!isOwner) return reply("❌ You are not the owner!");
-    reply(`🤖 *Bot JID:* ${conn.user.jid}`);
+   
+await conn.sendMessage(from, { text : from }, {quoted : mek })
 });
 
 // 8. Group JIDs List
