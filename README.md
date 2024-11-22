@@ -1,3 +1,11 @@
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
+<div align="center">
+  <img width="720" height="auto" src=Add-ons/FSN.gif>
+</div>
+
+
+
+
 <div align="center">
 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
@@ -13,8 +21,6 @@
 <p align="center">  
 <a href="https://cdn.ironman.my.id/i/g1mmt2.jpg">
 <img alt="CodeXRuWA" height="500" src="https://cdn.ironman.my.id/i/g1mmt2.jpg">
-
-<img width="400" height="auto" src=Add-ons/FSN.gif>
 
 <div align="center">  
     
