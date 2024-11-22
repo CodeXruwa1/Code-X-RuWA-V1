@@ -2,7 +2,7 @@
 ====================================================================
 
 </a>
-    <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1/tree/main">
+    <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
     <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-MD?label=Fork&style=social">
 
 <hr>
