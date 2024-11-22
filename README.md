@@ -1,9 +1,14 @@
 # 😈"Code X RuWA V1" Whatsapp BOT😈
 ====================================================================
+<hr>
+
+<b>FORK NOW</b>
 
 </a>
 <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1/fork">
 <img src="https://img.shields.io/github/forks/CodeXRuWA/Code-X-RuWA?label=Fork&style=social">
+
+<b>Fork Button එක Click කරලා Frok කර ගන්න...☑️</b>
 
 <hr>
 
