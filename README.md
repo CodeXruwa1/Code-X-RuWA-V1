@@ -3,9 +3,7 @@
 <hr>
 
 <b>FORK NOW</b>
-            /n
-            /n 
-           </b>  
+           </a>  
               <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1/fork">
               <img src="https://img.shields.io/github/forks/CodeXRuWA/Code-X-RuWA?label=Fork&style=social">
 
