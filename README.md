@@ -7,15 +7,12 @@
 
 <a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-
-<hr>
 <b>GET SESSION ID VIA PAIR CODE 02</b>
 
 <a href='https://willing-gertrude-asitha-4de0249e.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 මෙී ලින්ක් වලින් ගිහින් නමිබර් එක දීලා Pair code එක අරන් Link කරගන්න.
 
-\\=================================================================//
 <hr>
 
 <b>CONTACT OWNER</b>
@@ -28,7 +25,7 @@
 <b>DEPLOY</b>
 </br>
 </br>
-[![nima](https://img.shields.io/github/workflow/status/CalvinAllen/OpenInNotepadPlusPlus/release_build_and_deploy?logo=github&style=for-the-badge)](https://github.com/CodeXRuWA/Code-X-RuWA-V1/new/main?filename=.github%2Fworkflows%2Fnode.js.yml&workflow_template=ci%2Fnode.js)
+[![Ruwa](https://img.shields.io/github/workflow/status/CalvinAllen/OpenInNotepadPlusPlus/release_build_and_deploy?logo=github&style=for-the-badge)](https://github.com/CodeXRuWA/Code-X-RuWA-V1/new/main?filename=.github%2Fworkflows%2Fnode.js.yml&workflow_template=ci%2Fnode.js)
 
 <b>COPY WORKFLOW CODE</b></br>
 
