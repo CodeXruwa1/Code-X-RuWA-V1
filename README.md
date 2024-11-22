@@ -9,6 +9,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODE+X+RUWA+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+<p align="center">  
+<a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+<img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    
+
 <div align="center">  
     
 <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
