@@ -13,7 +13,7 @@ Fork Button එක Click කරලා Frok කර ගන්න...☑️
 
 <hr>
 
-
+<b>GET SESSION ID</b>
 
 > GET SESSION ID VIA PAIR CODE 01
 
