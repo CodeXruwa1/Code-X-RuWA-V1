@@ -4,21 +4,12 @@
 
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
-
 <a href='https://pair-code-production.up.railway.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <b>GET SESSION ID VIA PAIR CODE 02</b>
-
 <a href='https://willing-gertrude-asitha-4de0249e.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-මෙී ලින්ක් වලින් ගිහින් නමිබර් එක දීලා Pair code එක අරන් Link කරගන්න.
-
-<hr>
-
-<b>CONTACT OWNER</b>
-
-
-[![RUWA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
+<b>මෙී ලින්ක් වලින් ගිහින් නමිබර් එක දීලා Pair code එක අරන් Link කරගන්න.☑️</b>
 
 <hr>
 
@@ -67,6 +58,14 @@
 <b>මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න...☑️</b></br>              
 
 \\=================================================================//
+
+<hr>
+
+<b>CONTACT OWNER</b>
+
+
+[![RUWA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
+
 
 <b>©️ copyright Credit</b>  
 < bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
