@@ -10,9 +10,8 @@
 
 <hr>
 
-මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.
-          
-....................<b>COPY WORKFLOW CODE</b></br>...................
+
+          <b>COPY WORKFLOW CODE</b></br>
    
 
          name: Node.js CI
@@ -48,6 +47,8 @@
 
              - name: Start application
                run: npm start
+
+මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.☑               
 
 \\=================================================================//
 
