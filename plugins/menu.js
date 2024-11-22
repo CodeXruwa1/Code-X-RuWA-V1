@@ -63,7 +63,6 @@ let desc = `
 │ ✑ _.jid_
 │ ✑ _.gjid_
 │ ✑ _.clearchats_
-│ ✑ _.fullpp_
 │ ✑ _.restart_
 └────────────
 
