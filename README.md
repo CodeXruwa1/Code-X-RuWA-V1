@@ -109,3 +109,6 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=fffff&center=true&vCenter=true&multiline=false&lines=Code-X-RuWA-V1-OWNER-ISHARA-RUWAN" alt="">
 </p>
+
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
