@@ -62,7 +62,6 @@ let desc = `
 │ ✑ _.unblock_
 │ ✑ _.jid_
 │ ✑ _.gjid_
-│ ✑ _.clearchats_
 │ ✑ _.restart_
 └────────────
 
