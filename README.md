@@ -11,7 +11,7 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   <p align="center">
-    <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
+    <a href="https://cdn.ironman.my.id/i/g1mmt2.jpg">
     <img src=https://cdn.ironman.my.id/i/g1mmt2.jpg"  width="700px">
     </a>
     <hr>
