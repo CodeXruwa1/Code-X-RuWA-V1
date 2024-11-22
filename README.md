@@ -8,12 +8,11 @@
 
 \\=================================================================//
 
-මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.
-
 <hr>
 
-    <b>COPY WORKFLOW CODE</b></br>
-    ```
+මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.
+            <b>COPY WORKFLOW CODE</b></br>
+   
 
          name: Node.js CI
 
