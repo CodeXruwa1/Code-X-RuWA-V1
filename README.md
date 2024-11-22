@@ -2,8 +2,8 @@
 ====================================================================
 
   <p align="center">
-    <a href="https://github.com/ASITHA-MD/ASITHA-MD">
-    <img src=https://i.postimg.cc/rmL0Tm9y/Asitha-MD.png"  width="700px">
+    <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
+    <img src=https://i.postimg.cc/rmL0Tm9y/Code-X-RuWA-V1"  width="700px">
     </a>
     <hr>
     <p align="center">
