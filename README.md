@@ -14,9 +14,7 @@
 <a href="https://cdn.ironman.my.id/i/g1mmt2.jpg">
 <img alt="CodeXRuWA" height="500" src="https://cdn.ironman.my.id/i/g1mmt2.jpg">
 
-
-<img width="500" height="auto" src=Add-ons/FSN.gif>
-</div>
+<img width="400" height="auto" src=Add-ons/FSN.gif>
 
 <div align="center">  
     
