@@ -1,11 +1,3 @@
-<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
-<div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
-</div>
-
-
-
-
 <div align="center">
 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
