@@ -10,7 +10,7 @@
 
 මෙී Code එ⁣ක Copy කරන් Action වලින් BOT Deploy කරන්න.
 
-             name: Node.js CI
+         name: Node.js CI
 
          on:
            push:
