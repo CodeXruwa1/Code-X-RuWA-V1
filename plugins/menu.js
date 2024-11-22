@@ -13,31 +13,15 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 
 let desc = `
-*😈 Hi* ${pushname}
-┌────────────────
-│❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
-│❖ *ʀᴀᴍ ᴜꜱɢ :* _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB_
-│              _${Math.round(require('os').totalmem / 1024 / 1024)}MB_
-|❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Code-X-RuWA_
-└────────────────
-*Code-X-RuWA is Here😈*
+*😈 Hello* ${pushname}
+*Code-X-RuWA MENU📲*
 ┌────────────
 😈 *📚ALL COMMANDS*└────────────
 ┌────────────
 😈 *📥DOWNLOAD COMMANDS*
 │
-│ ✑ _.song_
-│ ✑ _.play_
-│ ✑ _.yta_
+| ✑ _.song_
 │ ✑ _.video_
-│ ✑ _.fb_
-│ ✑ _.facebook_
-│ ✑ _.tt_
-│ ✑ _.tiktok_
-│ ✑ _.ig_
-│ ✑ _.apk_
-│ ✑ _.mediafire_
 └────────────
 ┌────────────
 😈 *🔎SEARCH COMMANDS*
@@ -55,7 +39,6 @@ let desc = `
 ┌────────────
 😈 *🧧MAIN COMMANDS*
 │
-│ ✑ _.restart_
 │ ✑ _.owner_
 │ ✑ _.ping_
 │ ✑ _.system_
