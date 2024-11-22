@@ -100,8 +100,8 @@
 [![NIMAYT](https://img.shields.io/badge/AI-ZONE-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LjjaXGg10tXBAvFfPXEMz1)
 
 
-<b>©️ copyright Credit</b>  
-< bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
+<b>©️ Copyright Credit</b>  
+< Bot Base - Prabth-MD >     < Pair Code Link - Asitha-MD > 
 
 <b>❤ Special thanks to everyone who helped ❤</b></br>
 
