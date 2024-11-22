@@ -8,9 +8,9 @@
 
 \\=================================================================//
 <hr>
-    <b>CONTACT OWNER</b>
+<b>CONTACT OWNER</b>
 
-    [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
+[![RUWA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
 
 <hr>
 
