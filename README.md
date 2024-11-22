@@ -62,6 +62,6 @@
 
 \\=================================================================//
 
-©️ copyright Credit  
+<b>©️ copyright Credit</b></br>  
 < bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
-# ❤️ Special thanks to everyone who helped ❤️
+</b></br>❤ Special thanks to everyone who helped ❤</b></br>
