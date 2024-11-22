@@ -84,7 +84,7 @@ let desc = `
 
 > *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Code-X-RuWA 😈*
 `
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://cdn.ironman.my.id/i/g1mmt2.jpg`},caption: desc},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
