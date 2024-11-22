@@ -13,7 +13,7 @@
     <b>DEPLOY</b>
     </br>
     </br>
-    [![nima](https://img.shields.io/badge/Code-X-RuWA-V1_deploy_on_Workflow-430098?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/CodeXRuWA/Code-X-RuWA-V1/new/main?filename=.github%2Fworkflows%2Fnode.js.yml&workflow_template=ci%2Fnode.js)
+    [![nima](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/CodeXRuWA/Code-X-RuWA-V1/new/main?filename=.github%2Fworkflows%2Fnode.js.yml&workflow_template=ci%2Fnode.js)
 
     
   
