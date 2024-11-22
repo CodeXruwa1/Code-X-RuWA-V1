@@ -13,18 +13,19 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 
 let desc = `
-*🌸 Hi* ${pushname}
+*😈 Hi* ${pushname}
 ┌────────────────
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
-│❖ *ʀᴀᴍ ᴜꜱɢ :* _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
-│❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
+│❖ *ʀᴀᴍ ᴜꜱɢ :* _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB_
+│              _${Math.round(require('os').totalmem / 1024 / 1024)}MB_
+|❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
 │❖ *ᴏᴡɴᴇʀ :* _Code-X-RuWA_
 └────────────────
-*Code-X-RuWA is Here*😈
+*Code-X-RuWA is Here😈*
 ┌────────────
-❖ *📚ALL COMMANDS📚*└────────────
+😈 *📚ALL COMMANDS*└────────────
 ┌────────────
-❖ *📥DOWNLOAD COMMANDS📥*
+😈 *📥DOWNLOAD COMMANDS*
 │
 │ ✑ _.song_
 │ ✑ _.play_
@@ -39,20 +40,20 @@ let desc = `
 │ ✑ _.mediafire_
 └────────────
 ┌────────────
-❖ *🔎SEARCH COMMANDS🔎*
+😈 *🔎SEARCH COMMANDS*
 │
 │ ✑ _.yts_
 │ ✑ _.img_
 │ ✑ _.pinterest_
 └────────────
 ┌────────────
-❖ *🎊CONVERTED COMMANDS🎊*
+😈 *🎊CONVERTED COMMANDS*
 │
 │ ✑ _.sticker_
 │ ✑ _.tts_
 └────────────
 ┌────────────
-❖ *🧧MAIN COMMANDS🧧*
+😈 *🧧MAIN COMMANDS*
 │
 │ ✑ _.restart_
 │ ✑ _.owner_
@@ -61,7 +62,7 @@ let desc = `
 │ ✑ _.src_
 └────────────
 ┌────────────
-❖ *🎯GROUP COMMANDS🎯*
+😈 *🎯GROUP COMMANDS*
 │
 │ ✑ _.promote_
 │ ✑ _.demote_
@@ -72,17 +73,18 @@ let desc = `
 │ ✑ _.getpic_
 └────────────
 ┌────────────
-❖ *👤OWNER COMMANDS👤️*
+😈 *👤OWNER COMMANDS*
 │
 │ ✑ _.block_
 │ ✑ _.unblock_
 │ ✑ _.jid_
 │ ✑ _.gjid_
 │ ✑ _.clearchats_
+│ ✑ _.fullpp_
 │ ✑ _.restart_
 └────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Code-X-RuWA 😈*
+> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ CodeXRuWA😈*
 `
 return await conn.sendMessage(from,{image: {url: `https://cdn.ironman.my.id/i/g1mmt2.jpg`},caption: desc},{quoted: mek})
 }catch(e){
