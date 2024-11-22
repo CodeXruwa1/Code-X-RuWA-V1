@@ -1,8 +1,5 @@
 <div align="center">
 
-<br>
-<img src="./image/line1.gif" height ="80px" width ="100%">
-           
 # 😈"Code X RuWA V1" BOT😈
 
 ====================================================================
