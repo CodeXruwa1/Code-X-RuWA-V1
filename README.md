@@ -14,6 +14,8 @@
 <a href="https://cdn.ironman.my.id/i/g1mmt2.jpg">
 <img alt="CodeXRuWA" height="500" src="https://cdn.ironman.my.id/i/g1mmt2.jpg">
 
+<img src="https://i.imgur.com/tzYKRfd.gif">
+
 <div align="center">  
     
 <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
