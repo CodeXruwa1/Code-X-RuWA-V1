@@ -1,6 +1,6 @@
-const config = require('../config');
 const fs = require('fs');
 const path = require('path');
+const {readEnv} = require('../lib/database')
 const {cmd , commands} = require('../command')
 
 //auto_voice
@@ -8,10 +8,11 @@ cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../media/autovoice.json');
+    const filePath = path.join(__dirname, '../my_data/autovoice.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
         if (body.toLowerCase() === text.toLowerCase()) {
+            const config = await readEnv();
             if (config.AUTO_VOICE === 'true') {
                 //if (isOwner) return;        
                 await conn.sendPresenceUpdate('recording', from);
@@ -21,19 +22,19 @@ async (conn, mek, m, { from, body, isOwner }) => {
     }                
 });
 
-//auto nsfw
 //auto sticker 
 cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../media/autosticker.json');
+    const filePath = path.join(__dirname, '../my_data/autosticker.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
-        if (body.toLowerCase() === text.toLowerCase()) {          
+        if (body.toLowerCase() === text.toLowerCase()) {
+            const config = await readEnv();
             if (config.AUTO_STICKER === 'true') {
                 //if (isOwner) return;        
-                await conn.sendMessage(from,{sticker: { url : data[text]},package: 'yourName'},{ quoted: mek })   
+                await conn.sendMessage(from,{sticker: { url : data[text]},package: 'QueenMathee'},{ quoted: mek })   
             
             }
         }
@@ -45,10 +46,11 @@ cmd({
   on: "body"
 },    
 async (conn, mek, m, { from, body, isOwner }) => {
-    const filePath = path.join(__dirname, '../media/autoreply.json');
+    const filePath = path.join(__dirname, '../my_data/autoreply.json');
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
     for (const text in data) {
         if (body.toLowerCase() === text.toLowerCase()) {
+            const config = await readEnv();
             if (config.AUTO_REPLY === 'true') {
                 //if (isOwner) return;        
                 await m.reply(data[text])
