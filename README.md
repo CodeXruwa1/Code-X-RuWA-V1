@@ -1,9 +1,14 @@
-# 😈"Code X RuWA V1" Whatsapp BOT😈
+# 😈"Code X RuWA V1" BOT😈
 ====================================================================
+<div align="center">
+
+
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODE+X+RUWA+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   <p align="center">
     <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
-    <img src=https://i.postimg.cc/rmL0Tm9y/Code-X-RuWA-V1"  width="700px">
+    <img src=https://cdn.ironman.my.id/i/g1mmt2.jpg"  width="700px">
     </a>
     <hr>
     <p align="center">
