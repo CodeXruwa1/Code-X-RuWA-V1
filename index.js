@@ -71,7 +71,7 @@ console.log('Connecting Code-X-RuWA-V1 🧬... ✅')
 
 let up = `Code-X-RuWA-V1 BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://telegra.ph/file/900435c6d3157c98c3c88.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://cdn.ironman.my.id/i/g1mmt2.jpg` }, caption: up })
 
 }
 })
