@@ -1,6 +1,8 @@
 <div align="center">
-           
 
+<br>
+<img src="./image/line1.gif" height ="80px" width ="100%">
+           
 # 😈"Code X RuWA V1" BOT😈
 
 ====================================================================
@@ -108,7 +110,3 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=fffff&center=true&vCenter=true&multiline=false&lines=Code-X-RuWA-V1-OWNER-ISHARA-RUWAN" alt="">
 </p>
-
-<br>
-<img src="./image/line1.gif" height ="80px" width ="100%">
-
