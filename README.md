@@ -90,12 +90,12 @@
 
 <hr>
 
-<b>CONTACT OWNER</b>
+<b>CONTACT OWNER</h3>
 
 
 [![RUWA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
 
-<h3>MY WA BOT GROUP</h3>
+<b>MY WA BOT GROUP</h3>
 
 [![NIMAYT](https://img.shields.io/badge/AI-ZONE-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LjjaXGg10tXBAvFfPXEMz1)
 
@@ -108,9 +108,5 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=fffff&center=true&vCenter=true&multiline=false&lines=Code-X-RuWA-V1-OWNER-ISHARA-RUWAN" alt="">
 </p>
-
-<div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
-</div>
 
 
