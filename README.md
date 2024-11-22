@@ -6,11 +6,10 @@
 ====================================================================
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODE+X+RUWA+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=CODE+X+RUWA+V1+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-    <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-  
+<div align="center">  
     
 <a href="https://github.com/CodeXRuWA/Code-X-RuWA-V1">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCode-X-RuWA%2FCode-X-RuWA-V1&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/>
