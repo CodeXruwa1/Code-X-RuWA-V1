@@ -29,7 +29,7 @@ cmd({
       
       let sticker = new Sticker(imageFileName, {
         pack: pushname,
-        author: 'Asᴍᴏᴅᴇᴜs Eᴘᴢɪ',
+        author: 'CodeXRuWA-V1',
         type: args.includes('--crop') || args.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
         categories: ['🥳', '🎉'],
         id: '12345',
@@ -46,7 +46,7 @@ cmd({
       
       let sticker = new Sticker(stickerFileName, {
         pack: pushname,
-        author: 'Asᴍᴏᴅᴇᴜs Eᴘᴢɪ',
+        author: 'CodeXRuWA-V1',
         type: args.includes('--crop') || args.includes('-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
         categories: ['🥳', '🎉'],
         id: '12345',
@@ -111,7 +111,7 @@ cmd({
     const response = await axios.get(apiUrl);
     const translatedText = response.data.responseData.translatedText;
     const responseMessage = `
-🌍 *CUDU NONA TRANSLATION* 🌍
+🌍 *CodeXRuWA-V1 TRANSLATION* 🌍
 
 📜 *Original*: ${textToTranslate}
 
@@ -119,7 +119,7 @@ cmd({
 
 🗣️ *Language*: ${languageCode.toUpperCase()}
     
-> created by Asᴍᴏᴅᴇᴜs Eᴘᴢɪ
+> created by CodeXRuWA-V1
 `;
     return reply(responseMessage);
   } catch (error) {
