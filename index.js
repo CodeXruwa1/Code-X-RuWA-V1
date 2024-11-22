@@ -40,7 +40,7 @@ const port = process.env.PORT || 8000;
 
 async function connectToWA() {
 console.log("Connecting Code-X-RuWA-V1 🧬...");
-const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
+const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
 var { version } = await fetchLatestBaileysVersion()
 
 const conn = makeWASocket({
