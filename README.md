@@ -1,6 +1,7 @@
 <div align="center">
-<h1 align="center"> 
+
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
+
 # 😈"Code X RuWA V1" BOT😈
 
 ====================================================================
