@@ -95,6 +95,10 @@
 
 [![RUWA](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94725337377)
 
+<h3>MY WA BOT GROUP:</h3>
+
+[![NIMAYT](https://img.shields.io/badge/Sadaru-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LjjaXGg10tXBAvFfPXEMz1)
+
 
 <b>©️ copyright Credit</b>  
 < bot base - prabth-MD >     < Pair code Link - Asitha-MD > 
