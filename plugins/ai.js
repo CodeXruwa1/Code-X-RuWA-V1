@@ -1,3 +1,4 @@
+const config = require('../config')
 const {cmd , commands} = require('../command')
 const { fetchJson } = require('../lib/functions')
 
@@ -12,9 +13,9 @@ try{
 
 let data = await fetchJson(`https://chatgptforprabath-md.vercel.app/api/gptv1?q=${q}`)
 
-reply(`${data.data}\n\n> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1😈`}
+return reply(`${data.data}\n\n> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1 ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`)
 
-catch(e){
+}catch(e){
 console.log(e)
 reply(`${e}`)
 
