@@ -9,12 +9,14 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
+
 let data = await fetchJson(`https://chatgptforprabath-md.vercel.app/api/gptv1?q=${q}`)
 
-reply(`${data.data}\n\n> ǫᴜᴇᴇɴ ᴍᴀᴛʜᴇᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`)
+reply(`${data.data}\n\n> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1😈`}
 
-}catch(e){
+catch(e){
 console.log(e)
 reply(`${e}`)
+
 }
 })
