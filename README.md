@@ -57,10 +57,10 @@
          on:
            push:
              branches:
-               - main
+               - 💜️ᴄᴏᴅᴇXʀᴜᴡᴀ-ᴠ1💜️
            pull_request:
              branches:
-               - main
+               - 💜️ᴄᴏᴅᴇXʀᴜᴡᴀ-ᴠ1💜️
 
          jobs:
            build:
