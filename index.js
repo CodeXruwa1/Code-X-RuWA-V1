@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Connecting Code-X-RuWA-V1 🧬... ✅')
 
-let up = `Code-X-RuWA-V1 BOT connected successful ✅\n\nPREFIX: ${prefix} \n\n*Join Our Chat Group*\nhttps://chat.whatsapp.com/LjjaXGg10tXBAvFfPXEMz1\n\n\n*Code X RuWA-V1 💗*\n\n> Created by Ishara Ruwan\n\n\n> version 1.0`;
+let up = `Code-X-RuWA-V1 BOT connected successful ✅\n\nPREFIX: ${prefix}\n\n*Join Our Chat Group*\nhttps://chat.whatsapp.com/LjjaXGg10tXBAvFfPXEMz1\n\n\n*Code X RuWA-V1 💗*\n\n> Created by Ishara Ruwan\n\n\n> version 1.0`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://cdn.ironman.my.id/i/g1mmt2.jpg` }, caption: up })
 
