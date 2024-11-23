@@ -18,7 +18,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_Code-X-RuWA-V1 AUDIO DOWNLOADER_* 📥
+*_CODE-X-RUWA V1 AUDIO DOWNLOADER_* 📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -28,7 +28,7 @@ let desc = `
 ├ 📌 *Upload on:* ${data.ago}
 └───────────────────
 
-> Code-X-RuWA-V1 ʙᴏᴛ`
+> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1😈`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
 //download audio
@@ -39,7 +39,7 @@ let downloadUrl = down.dl_url
 //send audio+document
 
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"> ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Code-X-RuWA-V1"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"> ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1"},{quoted:mek})
     
 }catch(e){
 console.log(e)
@@ -63,7 +63,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_Code-X-RuWA-V1 VIDEO DOWNLOADER_* 📥
+*_CODE-X-RUWA V1 VIDEO DOWNLOADER_* 📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -73,7 +73,7 @@ let desc = `
 ├ 📌 *Upload on:* ${data.ago}
 └───────────────────
 
-> Code-X-RuWA-V1 ʙᴏᴛ`
+> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
 //download video
@@ -84,7 +84,7 @@ let downloadUrl = down.dl_url
 //send video+document
 
 await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"> ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Code-X-RuWA-V1"},{quoted:mek})
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"> ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1"},{quoted:mek})
     
 }catch(e){
 console.log(e)
