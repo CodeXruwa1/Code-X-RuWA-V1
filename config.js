@@ -12,4 +12,3 @@ AUTO_REPLY: process.env.AUTO_REPLY || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",    
 };
-
