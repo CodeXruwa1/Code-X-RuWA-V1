@@ -18,7 +18,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_CODE-X-RUWA V1 AUDIO DOWNLOADER_* 📥
+*_CODE-X-RUWA V1 AUDIO DOWNLOADER_* 🎵📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -63,7 +63,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_CODE-X-RUWA V1 VIDEO DOWNLOADER_* 📥
+*_CODE-X-RUWA V1 VIDEO DOWNLOADER_* 🎬📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -73,7 +73,7 @@ let desc = `
 ├ 📌 *Upload on:* ${data.ago}
 └───────────────────
 
-> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1`
+> ᴄᴏᴅᴇXʀᴜᴡᴀ ᴠ1😈`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
 //download video
