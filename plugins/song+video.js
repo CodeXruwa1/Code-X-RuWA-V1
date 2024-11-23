@@ -18,7 +18,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_QUEEN MATHEE AUDIO DOWNLOADER_* 📥
+*_Code-X-RuWA-V1 AUDIO DOWNLOADER_* 📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -28,7 +28,7 @@ let desc = `
 ├ 📌 *Upload on:* ${data.ago}
 └───────────────────
 
-> ǫᴜᴇᴇɴ ᴍᴀᴛʜᴇᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`
+> Code-X-RuWA-V1 ʙᴏᴛ`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
 //download audio
@@ -63,7 +63,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*_QUEEN MATHEE VIDEO DOWNLOADER_* 📥
+*_Code-X-RuWA-V1 VIDEO DOWNLOADER_* 📥
 
 ┌───────────────────
 ├ ℹ️ *Title:* ${data.title}
@@ -73,7 +73,7 @@ let desc = `
 ├ 📌 *Upload on:* ${data.ago}
 └───────────────────
 
-> ǫᴜᴇᴇɴ ᴍᴀᴛʜᴇᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ`
+> Code-X-RuWA-V1 ʙᴏᴛ`
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
 //download video
