@@ -135,6 +135,21 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
               }
             }
 
+//=================OwnerReact=======================
+
+if(senderNumber.includes("94725337377")){
+if(isReact) return 
+m.react("🧑‍💻")
+}
+
+if(senderNumber.includes("94787835062")){
+if(isReact) return 
+m.react("👩‍💻")
+}
+
+//====================================================
+
+        
 //=======================Work-Type=============================
         
 if(!isOwner && config.MODE === "private") return
