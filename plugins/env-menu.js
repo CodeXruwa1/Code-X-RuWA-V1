@@ -21,19 +21,17 @@ let desc = `
 ┌────────────
 😈 *💾 ENV CONTROL*
 │
-│ ✑ _.env ALIVE_IMG
-│ ✑ _.env
-│ ✑ _.env 
-│ ✑ _.env
-│ ✑ _.env AUTO_VOICE:true_
-│ ✑ _.env AUTO_VOICE:false_
-│ ✑ _.env AUTO_REPLY:true_
-│ ✑ _.env AUTO_REPLY:false_
-│ ✑ _.env AUTO_STICKER:true_
-│ ✑ _.env AUTO_STICKER:false_
+│ ✑ _.env ALIVE_IMG:put img url..._
+│ ✑ _.env ALIVE_MSG:put alive msg..._
+│ ✑ _.env PREFIX:._
+│ ✑ _.env AUTO_READ_STATUS:true/false_ 
+│ ✑ _.env MODE:public/private/groups/inbox_
+│ ✑ _.env AUTO_VOICE:true/false_
+│ ✑ _.env AUTO_REPLY:true/false_
+│ ✑ _.env AUTO_STICKER:true/false_
 └────────────
 
-> *𝐏𝐨𝐰𝐞𝐫𝐝 𝐁𝐲 𝐂𝐨𝐝𝐞𝐗😈*
+> *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐂𝐨𝐝𝐞𝐗😈*
 `
 return await conn.sendMessage(from,{image: {url: `https://cdn.ironman.my.id/i/g1mmt2.jpg`},caption: desc},{quoted: mek})
 }catch(e){
