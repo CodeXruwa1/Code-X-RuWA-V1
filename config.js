@@ -13,3 +13,4 @@ AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",    
 };
+
