@@ -11,5 +11,5 @@ ALIVE_MSG: process.env.ALIVE_MSG || "😈 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 �
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "private",    
+MODE: process.env.MODE || "public",    
 };
