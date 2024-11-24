@@ -17,18 +17,32 @@ let desc = `
 
 *𝐂𝐨𝐝𝐞𝐗 VAR⚙️*
 ┌────────────
-😈 *⚙️ALL VAR SETTINGS*└────────────
+😈 *VAR CONTROL*
+└────────────
 ┌────────────
-😈 *💾 VAR CONTROL*
+│ ✑ _.var ALIVE_IMG:
+│ ✑ _put img url_
 │
-│ ✑ _.var ALIVE_IMG:put img url..._
-│ ✑ _.var ALIVE_MSG:put alive msg..._
-│ ✑ _.var PREFIX:._
-│ ✑ _.var AUTO_READ_STATUS:true/false_ 
-│ ✑ _.var MODE:public/private/groups/inbox_
-│ ✑ _.var AUTO_VOICE:true/false_
-│ ✑ _.var AUTO_REPLY:true/false_
-│ ✑ _.var AUTO_STICKER:true/false_
+│ ✑ _.var ALIVE_MSG:
+│ ✑ _put alive msg_
+│
+│ ✑ _.var PREFIX:
+│ ✑ _[.],[#],[,]_
+│
+│ ✑ _.var AUTO_READ_STATUS:_ 
+│ ✑ _true/false_
+│
+│ ✑ _.var MODE:public/private_
+│ ✑ _groups/inbox_
+│
+│ ✑ _.var AUTO_VOICE:
+│ ✑ _true/false_
+│
+│ ✑ _.var AUTO_REPLY:
+│ ✑ _true/false_
+│
+│ ✑ _.var AUTO_STICKER:
+│ ✑ _true/false_
 └────────────
 
 > *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐂𝐨𝐝𝐞𝐗😈*
