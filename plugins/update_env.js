@@ -36,7 +36,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     const newValue = value; // Use the full value as provided by the user
     const mode = parts.length > 1 ? parts.slice(1).join(' ').trim() : '';
     
-    const validModes = ['public', 'private', 'only_groups', 'inbox'];
+    const validModes = ['public', 'private', 'groups', 'inbox'];
     const finalMode = validModes.includes(mode) ? mode : '';
 
     if (!key || !newValue) {
