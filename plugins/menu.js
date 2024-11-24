@@ -3,7 +3,7 @@ const os = require("os")
 const {runtime} = require('../lib/functions')
 
 cmd({
-    pattern: "menu",
+    pattern: "xmenu",
     desc: "menu",
     category: "main",
     react: "📚",
