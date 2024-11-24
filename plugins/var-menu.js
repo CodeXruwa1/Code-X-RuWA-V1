@@ -3,7 +3,7 @@ const os = require("os")
 const {runtime} = require('../lib/functions')
 
 cmd({
-    pattern: "env",
+    pattern: "var",
     desc: "menu",
     category: "owner",
     react: "⚙️",
@@ -13,22 +13,22 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 
 let desc = `
-*😈codeX env* ${pushname}
+*😈codeX var* ${pushname}
 
-*𝐂𝐨𝐝𝐞𝐗 ENV⚙️*
+*𝐂𝐨𝐝𝐞𝐗 VAR⚙️*
 ┌────────────
-😈 *⚙️ALL ENV SETTINGS*└────────────
+😈 *⚙️ALL VAR SETTINGS*└────────────
 ┌────────────
-😈 *💾 ENV CONTROL*
+😈 *💾 VAR CONTROL*
 │
-│ ✑ _.env ALIVE_IMG:put img url..._
-│ ✑ _.env ALIVE_MSG:put alive msg..._
-│ ✑ _.env PREFIX:._
-│ ✑ _.env AUTO_READ_STATUS:true/false_ 
-│ ✑ _.env MODE:public/private/groups/inbox_
-│ ✑ _.env AUTO_VOICE:true/false_
-│ ✑ _.env AUTO_REPLY:true/false_
-│ ✑ _.env AUTO_STICKER:true/false_
+│ ✑ _.var ALIVE_IMG:put img url..._
+│ ✑ _.var ALIVE_MSG:put alive msg..._
+│ ✑ _.var PREFIX:._
+│ ✑ _.var AUTO_READ_STATUS:true/false_ 
+│ ✑ _.var MODE:public/private/groups/inbox_
+│ ✑ _.var AUTO_VOICE:true/false_
+│ ✑ _.var AUTO_REPLY:true/false_
+│ ✑ _.var AUTO_STICKER:true/false_
 └────────────
 
 > *𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐂𝐨𝐝𝐞𝐗😈*
