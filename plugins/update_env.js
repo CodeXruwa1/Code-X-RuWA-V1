@@ -3,7 +3,7 @@ const EnvVar = require('../lib/mongodbenv');
 const { cmd } = require('../command');
 
 cmd({
-    pattern: "env",
+    pattern: "var",
     alias: ["variable"],
     desc: "Check and update environment variables",
     category: "owner",
@@ -13,8 +13,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     if (!isOwner) return;
 
     if (!q) {
-        return reply("🙇‍♂️ *Please provide the environment variable and its new value.* \n\nExample: `.env ALIVE_MSG: hello i am Ishara Ruwan
-`");
+        return reply("🙇‍♂️ *Please provide the environment variable and its new value.* \n\nExample: `.update ALIVE_MSG: hello i am prabath kumara`");
     }
 
     // Find the position of the first colon or comma
@@ -24,7 +23,7 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     // Ensure we have a valid delimiter index
     const delimiterIndex = colonIndex !== -1 ? colonIndex : commaIndex;
     if (delimiterIndex === -1) {
-        return reply("🫠 *Invalid format. Please use the format:* `.env KEY:VALUE`");
+        return reply("🫠 *Invalid format. Please use the format:* `.update KEY:VALUE`");
     }
 
     // Extract key and value
@@ -36,11 +35,11 @@ async (conn, mek, m, { from, q, reply, isOwner }) => {
     const newValue = value; // Use the full value as provided by the user
     const mode = parts.length > 1 ? parts.slice(1).join(' ').trim() : '';
     
-    const validModes = ['public', 'private', 'groups', 'inbox'];
+    const validModes = ['public', 'private', 'only_groups', 'inbox'];
     const finalMode = validModes.includes(mode) ? mode : '';
 
     if (!key || !newValue) {
-        return reply("🫠 *Invalid format. Please use the format:* `.env KEY:VALUE`");
+        return reply("🫠 *Invalid format. Please use the format:* `.update KEY:VALUE`");
     }
 
     // Specific checks for MODE, ALIVE_IMG, and AUTO_READ_STATUS
