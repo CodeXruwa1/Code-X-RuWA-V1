@@ -15,7 +15,7 @@ try{
 let desc = `
 *😈 Hello* ${pushname}
 
-*Code-X-RuWA MENU📲*
+*ᴄᴏᴅᴇXʀᴜᴡᴀ-ᴠ1 MENU📲*
 ┌────────────
 😈 *📚ALL COMMANDS*└────────────
 ┌────────────
@@ -72,7 +72,7 @@ let desc = `
 │ ✑ _.restart_
 └────────────
 
-> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ CodeXRuWA😈*
+> *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴄᴏᴅᴇXʀᴜᴡᴀ-ᴠ1😈*
 `
 return await conn.sendMessage(from,{image: {url: `https://cdn.ironman.my.id/i/g1mmt2.jpg`},caption: desc},{quoted: mek})
 }catch(e){
