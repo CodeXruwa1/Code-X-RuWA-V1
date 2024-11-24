@@ -6,11 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=6zYT3S4D#nHw4oDTjHYz-z3XzszQoD2GCRjZgxuFiDZciRMq7gzM",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.ironman.my.id/i/g1mmt2.jpg",
-ALIVE_MSG: process.env.ALIVE_MSG || "😈 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝘾𝙤𝙙𝙚-𝙓-𝙍𝙪𝙬𝙖-𝙑1\n☣️ 𝐈 𝐀𝐦 𝐀𝐥𝐢𝐯𝐞 𝐍𝐨𝐰!\n\n💠 Oᴡɴᴇʀ - 𝗜𝘀𝗵𝗮𝗿𝗮 𝗥𝘂𝘄𝗮𝗻\n\n💠 Oᴡɴᴇʀ W/A - +94725337377\n\n💠 Gɪᴛʜᴜʙ Rᴇᴘᴏ - 𝒄𝒐𝒎𝒊𝒏𝒈 𝒔𝒐𝒐𝒏…\n\n💠 Mᴀɪɴ Bᴏᴛ W/A Gʀᴏᴜᴘ - https://chat.whatsapp.com/CViytr0TGpM4gLedmxnFi5\n\n> Powered By Code X Ruwa V1",
-AUTO_REPLY: process.env.AUTO_REPLY || "true",
-AUTO_VOICE: process.env.AUTO_VOICE || "true",
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-MODE: process.env.MODE || "private",    
+MONGODB: process.env.MONGODB || "mongodb://mongo:qXQxdAbpntDdvsSpaIgIeyNVCyRdLZid@autorack.proxy.rlwy.net:22892",
 };
 
