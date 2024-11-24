@@ -3,7 +3,7 @@ const os = require("os")
 const {runtime} = require('../lib/functions')
 
 cmd({
-    pattern: "var",
+    pattern: "varm",
     desc: "menu",
     category: "owner",
     react: "⚙️",
